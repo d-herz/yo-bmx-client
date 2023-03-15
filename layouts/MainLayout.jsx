@@ -8,7 +8,7 @@ function MainLayout(props) {
     <div className='site-wrapper'>
       <MainNav />
 
-      <main>
+      <main className='main-container'>
         <Outlet />
       </main>
       <MainFooter />
