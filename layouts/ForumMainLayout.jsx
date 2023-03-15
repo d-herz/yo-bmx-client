@@ -15,7 +15,7 @@ function ForumMain(props) {
 
   return (
     <div className='forum-main'>
-      
+
       Welcome to the Yo! BMX Forums
       <nav className='forum-nav'>
         <NavLink
@@ -30,21 +30,21 @@ function ForumMain(props) {
           to='income'
           style={({ isActive }) => isActive ? activeStyle : null}
         >
-          Income
+          Sort By
         </NavLink>
 
         <NavLink
           to='vans'
           style={({ isActive }) => isActive ? activeStyle : null}
         >
-          Vans
+          Activity
         </NavLink>
 
         <NavLink
           to='reviews'
           style={({ isActive }) => isActive ? activeStyle : null}
         >
-          Reviews
+          OtherThing
         </NavLink>
 
       </nav>

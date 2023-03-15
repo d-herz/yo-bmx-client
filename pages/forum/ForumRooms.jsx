@@ -7,27 +7,37 @@ function ForumRooms(props) {
 
       <div className='forum-room-container'>
         <h1>FORUM ROOM</h1>
-        <h3>forum info and stuff</h3>
+        <div className="forum-room-info">
+          <h3>last post: mad recent</h3>
+        </div>
       </div>
 
       <div className='forum-room-container'>
         <h1>FORUM ROOM</h1>
-        <h3>forum info and stuff</h3>
+        <div className="forum-room-info">
+          <h3>last post: mad recent</h3>
+        </div>
       </div>
 
       <div className='forum-room-container'>
         <h1>FORUM ROOM</h1>
-        <h3>forum info and stuff</h3>
+        <div className="forum-room-info">
+          <h3>last post: mad recent</h3>
+        </div>
       </div>
 
       <div className='forum-room-container'>
         <h1>FORUM ROOM</h1>
-        <h3>forum info and stuff</h3>
+        <div className="forum-room-info">
+          <h3>last post: mad recent</h3>
+        </div>
       </div>
-      
+
       <div className='forum-room-container'>
         <h1>FORUM ROOM</h1>
-        <h3>forum info and stuff</h3>
+        <div className="forum-room-info">
+          <h3>last post: mad recent</h3>
+        </div>
       </div>
 
 
