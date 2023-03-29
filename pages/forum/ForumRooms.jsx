@@ -1,4 +1,5 @@
 import React from 'react';
+import { forumRooms } from '../../api';
 
 function ForumRooms(props) {
   return (
